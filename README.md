@@ -1,7 +1,7 @@
-## Hello guys, I'm Beri Mesyanti, working with UI/UX
-# Instagram : [HERE](https://www.instagram.com/berry.mmin?igsh=a2Vrdjlpd3Ixa3h3)
-
-# Fun fact from me, I like to draw!
+<h1 style="text-align:center;">Beri Mesyanti (F)</h1>
+<p>You can check my instagram <a href="https://www.instagram.com/berry.mmin?igsh=a2Vrdjlpd3Ixa3h3">HERE</a>!
+<p>Love to draw stuff!</p>
+<p>Already have boyfriend 🥰</p>
 <!--
 **BeriMesyanti-03/BeriMesyanti-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
