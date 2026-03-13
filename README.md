@@ -11,9 +11,11 @@
 
 ---
 
-## 👩‍💻 Beri Mesyanti
+## 🧠 Skills
 
-Information Systems Student • UI/UX Enthusiast
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
 ---
 
